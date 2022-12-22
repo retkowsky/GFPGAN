@@ -9,3 +9,5 @@ It leverages the generative face prior in a pre-trained GAN (*e.g.*, StyleGAN2) 
 <img src="demo.gif">
 
 https://github.com/TencentARC/GFPGAN
+
+22-Dec-2022 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
